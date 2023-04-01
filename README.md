@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-component-with-sass-and-boostrap-P8lDboJK_x)
-- Live Site URL: [Add live site URL here](https://playful-marigold-153c12.netlify.app/)
+- Solution URL: [FrontEnd Mentor solution](https://www.frontendmentor.io/solutions/qr-component-with-sass-and-boostrap-P8lDboJK_x)
+- Live Site URL: [Netlify App](https://playful-marigold-153c12.netlify.app/)
 
 ### Built with
 
